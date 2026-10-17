@@ -1,0 +1,17 @@
+[
+  {
+    "name": "slot-01",
+    "file": "save-01.json",
+    "updatedAt": "2026-10-17T20:24:47.5875459+05:00"
+  },
+  {
+    "name": "slot-02",
+    "file": "save-02.json",
+    "updatedAt": "2026-04-19T21:05:10"
+  },
+  {
+    "name": "autosave",
+    "file": "autosave.json",
+    "updatedAt": "2026-04-20T08:00:00"
+  }
+]
