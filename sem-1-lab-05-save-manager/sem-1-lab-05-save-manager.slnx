@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProgramTests/ProgramTests.csproj" />
+  <Project Path="sem-1-lab-05-save-manager/sem-1-lab-05-save-manager.csproj" />
+</Solution>
